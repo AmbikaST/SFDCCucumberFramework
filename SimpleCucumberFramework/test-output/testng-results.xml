@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-22T00:28:07 IST" name="Default suite" finished-at="2023-06-22T00:30:29 IST" duration-ms="142227">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cucumberTests.runners.SalesforceRunner@6c1a5b54]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-06-22T00:28:07 IST" name="Default test" finished-at="2023-06-22T00:30:29 IST" duration-ms="142227">
+      <class name="com.cucumberTests.runners.SalesforceRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.cucumberTests.runners.SalesforceRunner@6c1a5b54]" started-at="2023-06-22T00:28:07 IST" name="setUpClass" finished-at="2023-06-22T00:28:10 IST" duration-ms="2840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3ca17943]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cucumberTests.runners.SalesforceRunner@6c1a5b54]" started-at="2023-06-22T00:28:10 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-22T00:29:28 IST" duration-ms="77395" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["login with correct credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["SalesForce LoginFunctionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cucumberTests.runners.SalesforceRunner@6c1a5b54]" started-at="2023-06-22T00:29:28 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-22T00:29:39 IST" duration-ms="10993" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["login with blank password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["SalesForce LoginFunctionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cucumberTests.runners.SalesforceRunner@6c1a5b54]" started-at="2023-06-22T00:29:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-22T00:30:08 IST" duration-ms="29018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the remember username checkbox"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["SalesForce LoginFunctionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cucumberTests.runners.SalesforceRunner@6c1a5b54]" started-at="2023-06-22T00:30:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-22T00:30:19 IST" duration-ms="11442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test forgot password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["SalesForce LoginFunctionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cucumberTests.runners.SalesforceRunner@6c1a5b54]" started-at="2023-06-22T00:30:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-06-22T00:30:29 IST" duration-ms="10377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate Error Message"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["SalesForce LoginFunctionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.cucumberTests.runners.SalesforceRunner@6c1a5b54]" started-at="2023-06-22T00:30:29 IST" name="tearDownClass" finished-at="2023-06-22T00:30:29 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.cucumberTests.runners.SalesforceRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

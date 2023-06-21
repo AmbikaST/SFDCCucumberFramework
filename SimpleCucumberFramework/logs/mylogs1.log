@@ -1,0 +1,340 @@
+20230620 11:42:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java71 - chrome browser is opened
+20230620 11:42:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java104 - Test script TC-02 is started
+20230620 11:43:46 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java71 - chrome browser is opened
+20230620 11:43:46 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java104 - Test script TC-02 is started
+20230620 11:45:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java71 - chrome browser is opened
+20230620 11:45:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java104 - Test script TC-02 is started
+20230620 11:46:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java71 - chrome browser is opened
+20230620 11:46:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java104 - Test script TC-02 is started
+20230620 11:48:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser is opened
+20230620 11:48:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java86 - Test script TC-02 is started
+20230620 11:49:46 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser is opened
+20230620 11:49:46 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java86 - Test script TC-02 is started
+20230620 11:55:48 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser is opened
+20230620 11:55:48 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java86 - Test script TC-02 is started
+20230620 11:58:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser is opened
+20230620 12:00:09 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - Chrome browser is opened
+20230620 12:00:09 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java86 - Test script TC-02 is started
+20230620 12:00:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - https://login.salesforce.com/ is entered
+20230620 12:00:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java65 - current browser is closed
+20230620 12:01:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - Chrome browser is opened
+20230620 12:01:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java86 - Test script TC-02 is started
+20230620 12:01:54 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - https://login.salesforce.com/ is entered
+20230620 12:01:54 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (117514783e502f9e3d520510d0760979)
+20230620 12:01:55 INFO  [main] page.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 12:01:55 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:01:55 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 12:01:56 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:02:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java116 - Testscript TC-02 execution completed
+20230620 12:02:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java65 - current browser is closed
+20230620 12:07:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - Chrome browser is opened
+20230620 12:07:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java86 - Test script TC-02 is started
+20230620 12:08:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - https://login.salesforce.com/ is entered
+20230620 12:08:00 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (820deb36022809c7e9399664888d8ddd)
+20230620 12:08:01 INFO  [main] page.LoginPage LoginPage.java43 - entering into the login page for the username
+20230620 12:08:01 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:08:01 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the Password
+20230620 12:08:02 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:08:16 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java116 - Testscript TC-02 execution completed
+20230620 12:08:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java65 - current browser is closed
+20230620 12:08:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - Chrome browser is opened
+20230620 12:08:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java86 - Test script TC-02 is started
+20230620 12:08:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - https://login.salesforce.com/ is entered
+20230620 12:08:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java65 - current browser is closed
+20230620 12:31:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java55 - Chrome browser is opened
+20230620 12:31:20 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java61 - https://login.salesforce.com/ is entered
+20230620 12:31:21 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (57ed415d42a04daa17ae221a1d3eaff5)
+20230620 12:31:21 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 12:31:21 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:31:21 INFO  [main] page.LoginPage LoginPage.java60 - entering into the login page for the Password
+20230620 12:31:22 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:31:23 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java137 - Testscript TC-01 execution completed
+20230620 12:31:23 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java67 - current browser is closed
+20230620 12:44:40 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java55 - Chrome browser is opened
+20230620 12:44:44 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java61 - https://login.salesforce.com/ is entered
+20230620 12:44:44 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (b2e4fdf9c83f581d515cc556d5654f21)
+20230620 12:44:44 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 12:44:44 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:44:45 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 12:44:46 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:44:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java117 - Testscript TC-02 execution completed
+20230620 12:44:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java67 - current browser is closed
+20230620 12:45:01 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java55 - Chrome browser is opened
+20230620 12:45:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java61 - https://login.salesforce.com/ is entered
+20230620 12:45:04 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (6a42fc42a34991b28a4af2db8460e109)
+20230620 12:45:04 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 12:45:05 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:45:05 INFO  [main] page.LoginPage LoginPage.java60 - entering into the login page for the Password
+20230620 12:45:05 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:45:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java137 - Testscript TC-01 execution completed
+20230620 12:45:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java67 - current browser is closed
+20230620 12:45:09 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java55 - Chrome browser is opened
+20230620 12:45:12 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java61 - https://login.salesforce.com/ is entered
+20230620 12:45:12 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (a73989e7a42de10eb71c03355fb8cfe0)
+20230620 12:45:12 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 12:45:12 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:45:13 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 12:45:13 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:45:14 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java67 - current browser is closed
+20230620 12:53:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java56 - Chrome browser is opened
+20230620 12:53:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - https://login.salesforce.com/ is entered
+20230620 12:53:08 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (ba7c7d6354f264adec1f1858e0a775e4)
+20230620 12:53:08 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 12:53:08 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:53:09 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 12:53:09 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:53:57 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser is closed
+20230620 12:56:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java56 - Chrome browser is opened
+20230620 12:57:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - https://login.salesforce.com/ is entered
+20230620 12:57:02 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (f690de187862c2f90351b3ed3bd27685)
+20230620 12:57:02 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 12:57:03 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:57:03 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 12:57:04 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:57:35 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser is closed
+20230620 12:57:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java56 - Chrome browser is opened
+20230620 12:58:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - https://login.salesforce.com/ is entered
+20230620 12:58:02 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (1a7843ef15bd8b3a888ff224d45108a2)
+20230620 12:58:03 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 12:58:03 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 12:58:04 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 12:58:04 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 12:58:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser is closed
+20230620 13:01:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java56 - Chrome browser is opened
+20230620 13:01:21 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - https://login.salesforce.com/ is entered
+20230620 13:01:21 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (d32bf21859e84e550a089404b4329660)
+20230620 13:01:21 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 13:01:21 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 13:01:21 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 13:01:21 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 13:02:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser is closed
+20230620 13:04:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java56 - Chrome browser is opened
+20230620 13:04:11 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - https://login.salesforce.com/ is entered
+20230620 13:04:11 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (9297c3d514b9c5bdca6a8303e03bbbd6)
+20230620 13:04:11 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 13:04:12 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 13:04:12 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 13:04:13 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 13:04:25 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java118 - Testscript TC-02 execution completed
+20230620 13:04:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser is closed
+20230620 13:07:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java56 - Chrome browser is opened
+20230620 13:07:11 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - https://login.salesforce.com/ is entered
+20230620 13:07:11 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (03e80d01aab626566e14aa3961983ba9)
+20230620 13:07:11 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 13:07:12 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 13:07:14 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 13:07:15 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 13:07:32 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java118 - Testscript TC-02 execution completed
+20230620 13:07:34 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser is closed
+20230620 14:18:42 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java56 - Chrome browser is opened
+20230620 14:18:45 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - https://login.salesforce.com/ is entered
+20230620 14:18:45 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (e570adeff5dc95af91cb7081df0e2bb0)
+20230620 14:18:45 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 14:18:46 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:18:47 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 14:18:48 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 14:19:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java118 - Testscript TC-02 execution completed
+20230620 14:19:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser is closed
+20230620 14:21:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:21:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:21:04 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (d1dea45285289781533a85d9bcaf4c79)
+20230620 14:21:04 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 14:21:04 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:21:04 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 14:21:04 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 14:21:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java119 - Testscript TC-02 execution completed
+20230620 14:21:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:27:39 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:27:43 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:27:49 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (178cbddf60b71c659ca92bf725e5a0d5)
+20230620 14:27:49 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 14:27:50 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:27:50 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 14:27:50 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 14:28:05 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java119 - Testscript TC-02 execution completed
+20230620 14:29:44 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:29:48 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:29:48 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (7852678b85b8608043999e6b257ae6cf)
+20230620 14:29:48 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 14:29:49 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:29:50 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 14:29:50 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 14:30:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java119 - Testscript TC-02 execution completed
+20230620 14:30:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:31:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:31:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:31:07 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (2e5e4c4cd3fcbbeb9cd5e3c042f56df0)
+20230620 14:31:07 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 14:31:08 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:31:08 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 14:31:08 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 14:31:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java119 - Testscript TC-02 execution completed
+20230620 14:31:28 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java159 - Testscript TC-03 execution completed
+20230620 14:31:28 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:34:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:34:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:34:50 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (add3c51468845b42ae745c3d5a82d2bf)
+20230620 14:34:50 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 14:34:51 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:34:51 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 14:34:52 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 14:35:12 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:35:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:35:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:41:21 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:41:25 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:41:25 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:44:25 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:44:28 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:44:28 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:47:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:47:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:48:14 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:48:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:48:17 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (f2fa0c3e3522e297d3073d817141b0e0)
+20230620 14:48:18 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:48:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:49:57 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:50:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:50:00 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (efab744ab90ed624d97c0e8f1380345e)
+20230620 14:50:00 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:50:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java177 - Testscript TC-04A execution completed
+20230620 14:50:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:54:43 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:54:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:54:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 14:59:30 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 14:59:33 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 14:59:33 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (6766c839e201df33c42d0a1eae4bd1aa)
+20230620 14:59:33 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 14:59:34 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 14:59:34 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 14:59:34 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 14:59:38 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 15:00:31 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 15:00:34 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 15:00:34 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (60f7581bb2ce82e896c55bdcb8558581)
+20230620 15:00:34 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 15:00:35 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 15:00:35 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 15:00:35 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 15:00:37 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 15:02:21 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 15:02:24 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 15:02:24 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (d29fa829acf2072ebee0ae144d354cbc)
+20230620 15:02:24 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 15:02:25 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 15:02:25 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 15:02:25 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 15:02:29 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 15:07:06 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 15:07:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 15:07:10 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (1d904b369e9428bd2aa03cdab7453e97)
+20230620 15:07:10 INFO  [main] page.LoginPage LoginPage.java49 - entering into the login page for the username
+20230620 15:07:11 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 15:07:11 INFO  [main] page.LoginPage LoginPage.java55 - entering into the login page for the Password
+20230620 15:07:11 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 15:07:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 15:14:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 15:14:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 15:14:51 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (b5d3b4e706bf40102d68fd614efa2aaa)
+20230620 15:14:51 INFO  [main] page.LoginPage LoginPage.java51 - entering into the login page for the username
+20230620 15:14:52 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 15:14:53 INFO  [main] page.LoginPage LoginPage.java57 - entering into the login page for the Password
+20230620 15:14:53 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 15:15:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 15:15:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - Chrome browser is opened
+20230620 15:15:52 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - https://login.salesforce.com/ is entered
+20230620 15:15:52 INFO  [main] base.BasePage BasePage.java36 - driver in basePage=ChromeDriver: chrome on WINDOWS (05ab741014c04622cec0c23f678581e6)
+20230620 15:15:52 INFO  [main] page.LoginPage LoginPage.java51 - entering into the login page for the username
+20230620 15:15:53 INFO  [main] base.BasePage BasePage.java72 - pass:usernameelement is cleared
+20230620 15:15:53 INFO  [main] page.LoginPage LoginPage.java57 - entering into the login page for the Password
+20230620 15:15:53 INFO  [main] base.BasePage BasePage.java72 - pass:Passwordelement is cleared
+20230620 15:15:55 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java192 - Testscript TC-04B execution completed
+20230620 15:15:55 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser is closed
+20230620 15:18:27 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java51 - Chrome browser is opened
+20230620 15:18:31 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://login.salesforce.com/ is entered
+20230620 15:18:31 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (b52c542b3b8afbafaa9566ca817eac5c)
+20230620 15:18:31 INFO  [main] page.LoginPage LoginPage.java50 - entering into the login page for the username
+20230620 15:18:31 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230620 15:18:32 INFO  [main] page.LoginPage LoginPage.java56 - entering into the login page for the Password
+20230620 15:18:32 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230620 15:18:46 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java113 - Testscript TC-02 execution completed
+20230620 15:18:46 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser is closed
+20230620 15:19:32 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java51 - Chrome browser is opened
+20230620 15:19:35 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://login.salesforce.com/ is entered
+20230620 15:19:35 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (2922e263055f157b8bd1abb2516a9c27)
+20230620 15:19:35 INFO  [main] page.LoginPage LoginPage.java50 - entering into the login page for the username
+20230620 15:19:35 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230620 15:19:36 INFO  [main] page.LoginPage LoginPage.java61 - entering into the login page for the Password
+20230620 15:19:36 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230620 15:19:37 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java133 - Testscript TC-01 execution completed
+20230620 15:19:38 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser is closed
+20230620 15:19:39 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java51 - Chrome browser is opened
+20230620 15:19:43 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://login.salesforce.com/ is entered
+20230620 15:19:43 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (2a3d5bf96ebe1990866c768959c1cd94)
+20230620 15:19:43 INFO  [main] page.LoginPage LoginPage.java50 - entering into the login page for the username
+20230620 15:19:44 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230620 15:19:44 INFO  [main] page.LoginPage LoginPage.java56 - entering into the login page for the Password
+20230620 15:19:45 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230620 15:19:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java113 - Testscript TC-02 execution completed
+20230620 15:20:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java153 - Testscript TC-03 execution completed
+20230620 15:20:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser is closed
+20230620 15:20:06 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java51 - Chrome browser is opened
+20230620 15:20:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://login.salesforce.com/ is entered
+20230620 15:20:10 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (e2b020e8a8aab5c536c9cffc1f7e348c)
+20230620 15:20:11 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230620 15:20:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java170 - Testscript TC-04A execution completed
+20230620 15:20:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser is closed
+20230620 15:20:14 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java51 - Chrome browser is opened
+20230620 15:20:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://login.salesforce.com/ is entered
+20230620 15:20:18 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (09080bfbf637bd653b04813c1e364091)
+20230620 15:20:18 INFO  [main] page.LoginPage LoginPage.java50 - entering into the login page for the username
+20230620 15:20:18 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230620 15:20:18 INFO  [main] page.LoginPage LoginPage.java56 - entering into the login page for the Password
+20230620 15:20:20 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230620 15:20:21 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java186 - Testscript TC-04B execution completed
+20230620 15:20:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser is closed
+20230622 00:29:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - Chrome browser is opened
+20230622 00:29:06 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://login.salesforce.com/ is entered
+20230622 00:29:06 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (f7346e8b05384e755710e2e002e15c36)
+20230622 00:29:08 INFO  [main] page.LoginPage LoginPage.java50 - entering into the login page for the username
+20230622 00:29:11 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230622 00:29:11 INFO  [main] page.LoginPage LoginPage.java56 - entering into the login page for the Password
+20230622 00:29:11 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230622 00:29:27 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java114 - Testscript TC-02 execution completed
+20230622 00:29:28 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - current browser is closed
+20230622 00:29:30 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - Chrome browser is opened
+20230622 00:29:34 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://login.salesforce.com/ is entered
+20230622 00:29:34 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (5f7947587900e9fa22299af05995e2d2)
+20230622 00:29:34 INFO  [main] page.LoginPage LoginPage.java50 - entering into the login page for the username
+20230622 00:29:35 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230622 00:29:36 INFO  [main] page.LoginPage LoginPage.java61 - entering into the login page for the Password
+20230622 00:29:37 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230622 00:29:38 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java134 - Testscript TC-01 execution completed
+20230622 00:29:39 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - current browser is closed
+20230622 00:29:41 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - Chrome browser is opened
+20230622 00:29:44 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://login.salesforce.com/ is entered
+20230622 00:29:44 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (04248d8e5bfb1e2afdd0de46e562154a)
+20230622 00:29:44 INFO  [main] page.LoginPage LoginPage.java50 - entering into the login page for the username
+20230622 00:29:47 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230622 00:29:48 INFO  [main] page.LoginPage LoginPage.java56 - entering into the login page for the Password
+20230622 00:29:48 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230622 00:30:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java114 - Testscript TC-02 execution completed
+20230622 00:30:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java154 - Testscript TC-03 execution completed
+20230622 00:30:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - current browser is closed
+20230622 00:30:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - Chrome browser is opened
+20230622 00:30:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://login.salesforce.com/ is entered
+20230622 00:30:13 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (11eec5ad0b3e3b89ecca2b8769b14eae)
+20230622 00:30:17 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230622 00:30:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java171 - Testscript TC-04A execution completed
+20230622 00:30:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - current browser is closed
+20230622 00:30:21 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - Chrome browser is opened
+20230622 00:30:24 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://login.salesforce.com/ is entered
+20230622 00:30:24 INFO  [main] base.BasePage BasePage.java34 - driver in basePage=ChromeDriver: chrome on WINDOWS (77945c464f67c201dd84bb53b8985df5)
+20230622 00:30:24 INFO  [main] page.LoginPage LoginPage.java50 - entering into the login page for the username
+20230622 00:30:26 INFO  [main] base.BasePage BasePage.java70 - pass:usernameelement is cleared
+20230622 00:30:26 INFO  [main] page.LoginPage LoginPage.java56 - entering into the login page for the Password
+20230622 00:30:27 INFO  [main] base.BasePage BasePage.java70 - pass:Passwordelement is cleared
+20230622 00:30:29 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java187 - Testscript TC-04B execution completed
+20230622 00:30:29 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - current browser is closed
